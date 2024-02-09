@@ -1,35 +1,21 @@
 ---
-title: About Goldydocs
+title: About Ramanuja Seva
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About Goldydocs" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="About Goldydocs" image_anchor="top" height="auto" %}}
 
-A sample site using the Docsy Hugo theme.
+Making Ramanuja Sampradaya related granthas more accessible to everyone.
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
+Ramanuja Seva is an effort to enable "everyone with an interest in the entire world" to easily access the source texts of Ramanuja Sampradaya, in the source language AND translations in other languages
 
 {{% /blocks/lead %}}
 
-{{% blocks/section %}}
 
-# This is another section
-{.text-center}
 
-{{% /blocks/section %}}
-
-{{% blocks/section %}}
-
-# This is another section
-{.text-center}
-
-{{% /blocks/section %}}
